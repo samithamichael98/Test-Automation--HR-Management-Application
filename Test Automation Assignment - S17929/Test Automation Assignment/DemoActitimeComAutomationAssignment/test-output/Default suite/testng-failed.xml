@@ -5,7 +5,7 @@
     <classes>
       <class name="com.demoactime.com.testcase.Login">
         <methods>
-          <include name="SearchReport"/>
+          <include name="verifyLoginWithValidCredentials"/>
         </methods>
       </class> <!-- com.demoactime.com.testcase.Login -->
     </classes>
